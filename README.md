@@ -30,7 +30,7 @@ Used Tableau to create a dashboard &amp; story for The Airbnb Dataset
 
 
 ### **THE DASHBOARD:**
-https://public.tableau.com/views/AirBnB-MarvanData-Dashboard/Dashboard-airbnb?:language=en-US&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/AirBnB-MarvanData-Dashboard/Dashboard-airbnb?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/MBG9BWHMB?:display_count=n&:origin=viz_share_link)
 <br>
 
 ### **THE STORY:**
