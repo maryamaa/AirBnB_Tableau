@@ -34,7 +34,7 @@ Used Tableau to create a dashboard &amp; story for The Airbnb Dataset
 <br>
 
 ### **THE STORY:**
-https://public.tableau.com/views/AirBnB-MarvanData-StoryofSydney/Story?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/maryam.aliakbari/viz/AirBnB-MarvanData-StoryofSydney/Story
 <br>
 
 
